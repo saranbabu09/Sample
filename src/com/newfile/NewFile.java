@@ -15,6 +15,8 @@ public class NewFile {
 	public static void main(String[] args) throws IOException {
 		NewFile f = new NewFile();
 		
+		System.out.println("Github");
+		
 		
 		
 	}
